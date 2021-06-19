@@ -7,7 +7,6 @@ Space Random Box:
 Yazıcı Kuyruk Uygulaması:
  Bir PC ye bağlı yazıcıda çıktı alırken PC den gönderilen belgeler yazıcı kuyruğunda birikmektedir. PC belgeleri bu
 kuyruğa iter, yazıcı ise işi bittiğinde bu kuyruktan sırasıyla bir belge alır ve yazdırır. 
-Proje metni: https://www.ktu.edu.tr/dosyalar/bilgisayar_658f5.pdf
 
 Öğrenci Randevu Sistemi:
  Örencilerin akademisyenlerden randevu alabilceği bir sistemdir.
